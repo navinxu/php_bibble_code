@@ -1,1 +1,3 @@
 run_push.sh
+cscope*
+*tags*
