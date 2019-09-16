@@ -1,3 +1,4 @@
 run_push.sh
 cscope*
 *tags*
+test.php
